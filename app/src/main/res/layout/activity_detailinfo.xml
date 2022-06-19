@@ -1,0 +1,123 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:paddingBottom="20dp"
+            android:paddingTop="20dp"
+            android:text="Tentang Aplikasi "
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="#006699"
+            android:textStyle="bold" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="3dp"
+        android:background="#006699"
+        android:orientation="vertical" >
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="20dp"
+            android:text="Logo Aplikasi"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textSize="20dp"/>
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="80dp"
+            android:src="@drawable/iconmusic"/>
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:paddingLeft="20dp"
+            android:text="Nama Aplikasi Yang Dibuat"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="20dp"
+            android:text="TiketBox 201111001_Nathaniel Kevin Kurniawan Kelas-A"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textSize="18dp"
+            android:textStyle="bold" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:paddingLeft="20dp"
+            android:text="Keterangan Tentang Aplikasi"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="20dp"
+            android:text="Terdapat Daftar Konser Musik,Pesan Tiket Konser,Webview Konser Musik"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textSize="18dp"
+            android:textStyle="bold" />
+    </LinearLayout>
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:paddingLeft="20dp"
+        android:text="Versi Aplikasi"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="20dp"
+        android:text="Versi 1.0"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textSize="18dp"
+        android:textStyle="bold" />
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:paddingLeft="20dp"
+        android:text="Copyright Aplikasi"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="20dp"
+        android:text="CopyRight(c) 2022,by Nathaniel Kevin Kurniawan"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textSize="18dp"
+        android:textStyle="bold" />
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="2dp"
+        android:layout_marginTop="30dp"
+        android:background="#CCFFCC"
+        android:orientation="vertical" >
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:gravity="center"
+        android:orientation="horizontal" >
+        <Button
+            android:id="@+id/btn_custom_alert_ok"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Back"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+    </LinearLayout>
+</LinearLayout>

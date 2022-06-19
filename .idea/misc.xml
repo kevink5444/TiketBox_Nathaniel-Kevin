@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/KEVIN/AndroidStudioProjects/TiketBox201111001_NathanielKevinKurniawanKelasA/app/src/main/res/drawable/button_gradient.xml" value="0.1025" />
+        <entry key="..\:/Users/KEVIN/AndroidStudioProjects/TiketBox201111001_NathanielKevinKurniawanKelasA/app/src/main/res/layout/activity_daftar_konser.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/KEVIN/AndroidStudioProjects/TiketBox201111001_NathanielKevinKurniawanKelasA/app/src/main/res/layout/activity_detailinfo.xml" value="0.1" />
+        <entry key="..\:/Users/KEVIN/AndroidStudioProjects/TiketBox201111001_NathanielKevinKurniawanKelasA/app/src/main/res/layout/activity_info.xml" value="0.12447916666666667" />
+        <entry key="..\:/Users/KEVIN/AndroidStudioProjects/TiketBox201111001_NathanielKevinKurniawanKelasA/app/src/main/res/layout/activity_konser_iwanfals.xml" value="0.12395833333333334" />
+        <entry key="..\:/Users/KEVIN/AndroidStudioProjects/TiketBox201111001_NathanielKevinKurniawanKelasA/app/src/main/res/layout/activity_konserarmada.xml" value="0.11197916666666667" />
+        <entry key="..\:/Users/KEVIN/AndroidStudioProjects/TiketBox201111001_NathanielKevinKurniawanKelasA/app/src/main/res/layout/activity_konsertulus.xml" value="0.11197916666666667" />
+        <entry key="..\:/Users/KEVIN/AndroidStudioProjects/TiketBox201111001_NathanielKevinKurniawanKelasA/app/src/main/res/layout/activity_main.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/KEVIN/AndroidStudioProjects/TiketBox201111001_NathanielKevinKurniawanKelasA/app/src/main/res/layout/activity_official.xml" value="0.12447916666666667" />
+        <entry key="..\:/Users/KEVIN/AndroidStudioProjects/TiketBox201111001_NathanielKevinKurniawanKelasA/app/src/main/res/layout/activity_pesan_tiket.xml" value="0.1578125" />
+        <entry key="..\:/Users/KEVIN/AndroidStudioProjects/TiketBox201111001_NathanielKevinKurniawanKelasA/app/src/main/res/layout/button_gradient.xml" value="0.13697916666666668" />
+        <entry key="..\:/Users/KEVIN/AndroidStudioProjects/TiketBox201111001_NathanielKevinKurniawanKelasA/app/src/main/res/layout/list_single_data.xml" value="0.12395833333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">TiketBox 201111001_Nathaniel Kevin Kurniawan Kelas-A</string>
+    <string name="konserarmada">
+       Tanggal : 01,02,03 Februari 2022 \n
+       Kota : Bali,Surabaya,Jakarta,Makassar \n
+       Harga  Tiket : Rp 400.000 \n\n
+    </string>
+    <string name="konseriwanfals">
+       Tanggal : 10,11,12 Maret 2022 \n
+       Kota : Jakarta,Medan,Bali,Surabaya \n
+       Harga Tiket : Rp 600.000 \n\n
+    </string>
+    <string name="konsertulus">
+       Tanggal : 20,21,22,23 April 2022 \n
+       Kota : Surabaya,Malang,Bali,Jakarta,Makassar \n
+       Harga Tiket : Rp 800.000 \n\n
+    </string>
+    <string-array name="kota1">
+        <item>Bali</item>
+        <item>Surabaya</item>
+        <item>Jakarta</item>
+        <item>Makassar</item>
+    </string-array>
+    <string-array name="kota2">
+        <item>Jakarta</item>
+        <item>Medan</item>
+        <item>Bali</item>
+        <item>Surabaya</item>
+    </string-array>
+    <string-array name="kota3">
+        <item>Surabaya</item>
+        <item>Malang</item>
+        <item>Bali</item>
+        <item>Makassar</item>
+    </string-array>
+</resources>
